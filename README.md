@@ -13,12 +13,22 @@ Updated portfolio page using HTML, CSS & JavaScript. Features mobile responsive.
 ## Table of Contents
    * [Description](#description)
    * [Built with](#built-with)
+   * [Badges](#badges)
+   * [Contributing](#contributing)
+   * [License](#license)
+   * [Visuals](#visuals)
+
 
 ## Description
 
 My updated portfolio includes links to my GitHub & LinkedIn profile page, as well as my email address. Additionally, I have included a list of projects, which can be found here. For each project I have included a link to a deployed version and to my GitHub repository.
 
 This is a build-in-progress portfolio that will ultimately showcase my work as a Full Stack Software Developer
+
+## Visuals
+
+![](images/portfoliogif.gif)
+
   
 ## Built with
 * HTML
